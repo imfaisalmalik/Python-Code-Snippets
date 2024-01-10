@@ -1,4 +1,5 @@
-# Python_Concepts
+# Python Code Snippets
+This repo contains different code snippets from basic to advanced python concepts.
 
 **Python concepts' summary with example code snippets.**
 
