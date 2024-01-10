@@ -3,5 +3,5 @@ This repo contains different code snippets from basic to advanced python concept
 
 **Python concepts' summary with example code snippets.**
 
-1. [Generators](Generators.ipynb)
-2. [Decorators](Decorators.ipynb)
+1. [Generators](intermediate/Generators.ipynb)
+2. [Decorators](intermediate/Decorators.ipynb)
