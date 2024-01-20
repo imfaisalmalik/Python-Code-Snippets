@@ -16,7 +16,7 @@ Python 35 Keywords, Python Identifiers(Variables, Constants, Literals), Python D
 This notebook contains info about: \
 Python if...else, for Loop, for loop with else, while Loop, while loop with else, break Statement, continue and pass Statement
 
-3. [Functions](basic\Functions.ipynb) \ 
+3. [Functions](basic/Functions.ipynb) \ 
 This notebook contains info about: \
 built-in functions (Python-v3.12 has `71` ), user-defined functions, function args types ()
 
@@ -31,9 +31,11 @@ This folder contains intermediate level code structures.
 
 # Advanced (Upcoming)
 
-1. Python Type Hinting
+1. Python Type Hinting, pydantic
 2. Type Annotations
-3. **args & **kargs
-4. list comprehensions or generator expressions.
-5. Protocol & Abstract Base Classes (ABC) in python
-6. 
+3. Named Tuple
+4. Python Enum & dataclasses
+5. **args & **kargs
+6. list comprehensions or generator expressions.
+7. Protocol & Abstract Base Classes (ABC) in python
+8. default_dict
